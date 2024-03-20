@@ -1,6 +1,6 @@
 # Algebraic-Calculator
 
-##this project is own by yash tanwar.
+## this project is own by yash tanwar.
 
 you can visit this project through this link below:
 
